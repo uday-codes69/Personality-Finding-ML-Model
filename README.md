@@ -1,2 +1,2 @@
-# Personality-Finding-ML-Model
-🚀 Streamlit web app for AI-based Personality Prediction — achieved 98% accuracy using Logistic Regression on a custom behavioral dataset.
+⚠️ Note: Model files (`.pkl`) are excluded from this repository to keep the repo lightweight.  
+To run the app, place your `personality_logistic_model.pkl` and `scaler.pkl` in the project root directory.
